@@ -1,0 +1,105 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.blck1{
+    background-color:hsl(225, 100%, 98%);
+    width: 1440px;
+    height: 800px;
+    margin: 75px auto;
+    box-shadow: 10px 10px 20px rgba(111, 111, 209, 0.2);
+}
+.back-image{
+
+    width: 1440px;
+}
+.summary{
+    margin: 30px 5px 10px 130px;
+    color: black;
+    font-weight: bolder;
+    text-size-adjust: 100px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Raleway', sans-serif;
+font-family: 'Red Hat Display', sans-serif;
+}
+.blck2{
+    border-radius: 10px;
+    width: 430px;
+    height: 600px;
+    position: relative;
+    margin: 75px auto 900px auto;
+    bottom: 400px;
+    background-color: white;
+    box-shadow: 10px 10px 20px rgba(111, 111, 209, 0.2);
+}
+.hero{
+    width: 430px;
+    position: relative;
+    bottom: 400px;
+    top: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.desc{
+    text-align: center;
+    margin: 30px;
+}
+.plan{
+    background-color: hsl(225, 100%, 98%);
+    margin: 25px 0 35px 48px;
+    border-radius: 10px;
+    height: 65px;
+    width: 342px;
+}
+.musicimg{
+    float: left;
+    margin: 13px;
+    height: 40px;
+}
+.annplan{
+
+        /* margin: 30px 20px 19px 46px; */
+        margin: 1px 17px 21px 46px;
+        border-radius: 10px;
+        height: 70px;
+        width: 342px;
+        font-family: 'Raleway', sans-serif;
+        font-family: 'Red Hat Display', sans-serif;
+        position: relative;
+        top: 12px;
+}
+.price{
+    position: relative;
+    bottom: 60px;
+    left: 65px;
+}
+.proceed{
+    background-color: hsl(245, 75%, 52%);
+    width: 368px;
+    height: 32px;
+    margin: 0px 0 20px 31px;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+}
+.cancel{
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+    color: gray;
+    text-align: center;
+    
+}
+.change{
+    position: relative;
+    left: 250px;
+    bottom: 90px;
+    color: blue;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+    text-decoration: underline;
+}
